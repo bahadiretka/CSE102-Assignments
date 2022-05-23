@@ -1,2 +1,2 @@
 # CSE102-Assignments
-other assignments are missing
+other assignments have been lost
